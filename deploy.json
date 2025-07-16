@@ -1,0 +1,82 @@
+{
+    "application_name": "aws-medtrack",
+    "application_type": "web",
+    "runtime": "python3.9",
+    "environment": {
+        "variables": {
+            "FLASK_APP": "app.py",
+            "FLASK_ENV": "production",
+            "AWS_REGION": "ap-south-1",
+            "DATABASE_URL": "postgresql://dbuser:dbpassword@dbhost:5432/dbname",
+            "SECRET_KEY": "your-production-secret-key",
+            "MAIL_SERVER": "smtp.gmail.com",
+            "MAIL_PORT": "587",
+            "MAIL_USE_TLS": "True",
+            "MAIL_USERNAME": "your-production-email",
+            "MAIL_PASSWORD": "your-app-specific-password"
+        }
+    },
+    "resources": {
+        "ec2": {
+            "instance_type": "t2.micro",
+            "ami": "ami-0c55b159cbfafe1f0",  // Amazon Linux 2 AMI
+            "security_groups": [
+                {
+                    "name": "medtrack-security-group",
+                    "description": "Security group for MedTrack application",
+                    "rules": [
+                        {
+                            "protocol": "tcp",
+                            "port_range": "80",
+                            "cidr_blocks": ["0.0.0.0/0"]
+                        },
+                        {
+                            "protocol": "tcp",
+                            "port_range": "443",
+                            "cidr_blocks": ["0.0.0.0/0"]
+                        },
+                        {
+                            "protocol": "tcp",
+                            "port_range": "22",
+                            "cidr_blocks": ["your-ip/32"]  // Replace with your IP for SSH access
+                        }
+                    ]
+                }
+            ]
+        },
+        "load_balancer": {
+            "type": "application",
+            "scheme": "internet-facing",
+            "listeners": [
+                {
+                    "protocol": "HTTP",
+                    "port": "80",
+                    "default_actions": [
+                        {
+                            "type": "forward",
+                            "target_group_arn": "arn:aws:elasticloadbalancing:ap-south-1:your-account-id:targetgroup/medtrack-tg/1234567890"
+                        }
+                    ]
+                }
+            ]
+        },
+        "database": {
+            "type": "RDS",
+            "engine": "postgres",
+            "instance_class": "db.t3.micro",
+            "allocated_storage": 20,
+            "backup_retention_period": 7
+        }
+    },
+    "deployment": {
+        "strategy": "rolling",
+        "min_healthy_hosts": {
+            "value": 1,
+            "type": "absolute"
+        },
+        "max_batch_size": {
+            "value": 1,
+            "type": "absolute"
+        }
+    }
+}

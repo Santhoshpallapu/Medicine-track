@@ -1,0 +1,228 @@
+2025-07-16 19:39:23,000 - INFO - Application initialized
+2025-07-16 19:59:23,283 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.224:5000
+2025-07-16 19:59:23,283 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 19:59:23,286 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 19:59:24,684 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 19:59:24,690 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 19:59:32,623 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 19:59:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-16 19:59:32,799 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 19:59:32] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-16 19:59:32,801 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 19:59:32] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-16 19:59:32,875 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 19:59:32] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-16 19:59:32,916 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 19:59:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-07-16 20:00:48,705 - werkzeug - INFO -  * Detected change in 'C:\\Users\\palla\\Downloads\\awsmedtrack-main\\app.py', reloading
+2025-07-16 20:00:48,815 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:00:50,348 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:00:50,353 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:01:06,497 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.224:5000
+2025-07-16 20:01:06,499 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 20:01:06,500 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:01:07,978 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:01:07,984 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:01:15,497 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-16 20:01:15,527 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-16 20:01:15,668 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-16 20:01:15,908 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-16 20:01:16,280 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-16 20:01:16,531 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-16 20:01:43,941 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.224:5000
+2025-07-16 20:01:43,942 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 20:01:43,944 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:01:45,420 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:01:45,425 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:01:49,715 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-16 20:01:49,866 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-16 20:01:49,886 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-16 20:01:49,968 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:01:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-07-16 20:02:23,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\palla\\Downloads\\awsmedtrack-main\\app.py', reloading
+2025-07-16 20:02:23,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\palla\\Downloads\\awsmedtrack-main\\app.py', reloading
+2025-07-16 20:02:23,996 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:02:24,003 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:02:25,483 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:02:25,487 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:02:25,493 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:02:25,497 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:03:09,783 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.224:5000
+2025-07-16 20:03:09,783 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 20:03:09,785 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:03:11,271 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:03:11,277 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:04:02,955 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.224:5000
+2025-07-16 20:04:02,958 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 20:04:02,961 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:04:04,456 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:04:04,464 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:04:11,042 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:11] "GET / HTTP/1.1" 200 -
+2025-07-16 20:04:11,050 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:11] "GET / HTTP/1.1" 200 -
+2025-07-16 20:04:11,126 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:04:18,558 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:18] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-16 20:04:18,891 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:18] "GET /login?role=doctor HTTP/1.1" 200 -
+2025-07-16 20:04:18,897 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:18] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-16 20:04:18,902 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:18] "GET /login?role=doctor HTTP/1.1" 200 -
+2025-07-16 20:04:19,247 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:04:27,775 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:27] "GET / HTTP/1.1" 200 -
+2025-07-16 20:04:27,782 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:27] "GET / HTTP/1.1" 200 -
+2025-07-16 20:04:27,810 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:04:36,245 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:36] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:04:36,251 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:36] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:04:36,281 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:04:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:05:01,164 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to santhos@plgmail.com
+2025-07-16 20:05:01,176 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:01] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:05:01,499 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:01] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:05:01,509 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:01] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:05:01,518 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:01] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:05:01,859 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:05:10,896 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:10] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:05:10,901 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:10] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:05:10,933 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:05:24,073 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-16 20:05:24,404 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:24] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:05:24,414 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-16 20:05:24,422 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:24] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:05:24,765 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:05:42,641 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:42] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-16 20:05:42,954 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:42] "GET / HTTP/1.1" 200 -
+2025-07-16 20:05:42,960 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:42] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-16 20:05:42,966 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:42] "GET / HTTP/1.1" 200 -
+2025-07-16 20:05:43,295 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:05:46,975 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:46] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:05:46,981 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:46] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:05:47,024 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:05:47] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:06:12,595 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to Narayana@gmail.com
+2025-07-16 20:06:12,597 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:12] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:06:12,910 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:12] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:06:12,918 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:12] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:06:12,926 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:12] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:06:13,270 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:06:49,012 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to alivelu@gmail.com
+2025-07-16 20:06:49,014 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:49] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:06:49,323 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:49] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:06:49,331 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:49] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:06:49,341 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:49] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:06:49,686 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:06:49] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:07:40,035 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to srivalli2002@gmail.com
+2025-07-16 20:07:40,036 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:07:40] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:07:40,348 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:07:40] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:07:40,357 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:07:40] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:07:40,365 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:07:40] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:07:40,706 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 20:07:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:07:58,100 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.224:5000
+2025-07-16 20:07:58,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 20:07:58,103 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 20:07:59,509 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 20:07:59,512 - werkzeug - INFO -  * Debugger PIN: 545-913-768
+2025-07-16 20:08:06,105 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:06] "GET / HTTP/1.1" 200 -
+2025-07-16 20:08:06,151 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:08:07,585 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 20:08:10,010 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:10] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-16 20:08:10,017 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:10] "GET /login?role=doctor HTTP/1.1" 200 -
+2025-07-16 20:08:10,072 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:08:19,564 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:19] "POST /login?role=doctor HTTP/1.1" 200 -
+2025-07-16 20:08:19,597 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:08:31,470 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:31] "POST /login?role=doctor HTTP/1.1" 200 -
+2025-07-16 20:08:31,503 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:08:34,901 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:34] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:08:34,938 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:08:51,069 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to santhosh@gmail.com
+2025-07-16 20:08:51,069 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:51] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:08:51,087 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:51] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:08:51,133 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:08:59,376 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:59] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:08:59,428 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:08:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:09:20,400 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to narayana@gmail.com
+2025-07-16 20:09:20,400 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:20] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:09:20,408 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:20] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:09:20,452 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:20] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:09:30,976 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-16 20:09:30,994 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:30] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:09:31,037 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:09:39,236 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:39] "GET /book_appointment HTTP/1.1" 200 -
+2025-07-16 20:09:39,274 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:09:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:03,451 - __main__ - INFO - [Email Skipped] Subject: New Appointment Notification to Narayana@gmail.com
+2025-07-16 20:10:03,452 - __main__ - INFO - [SNS Skipped] Message: New appointment booked with Dr. Narayana on 2025-07-16.
+Patient: santhosh
+Symptoms: heart pain
+2025-07-16 20:10:03,453 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:03] "[32mPOST /book_appointment HTTP/1.1[0m" 302 -
+2025-07-16 20:10:03,468 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:03] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:10:03,521 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:10,023 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-16 20:10:10,035 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:10] "GET / HTTP/1.1" 200 -
+2025-07-16 20:10:10,102 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:12,228 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:12] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-16 20:10:12,236 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:12] "GET /login?role=patient HTTP/1.1" 200 -
+2025-07-16 20:10:12,290 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:20,038 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:20] "[32mPOST /login?role=patient HTTP/1.1[0m" 302 -
+2025-07-16 20:10:20,066 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:20] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:10:20,126 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:20] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:30,628 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:30] "GET /dashboard?pending_patient_search=santhosh HTTP/1.1" 200 -
+2025-07-16 20:10:30,683 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:38,430 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:38] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:10:38,473 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:40,515 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:40] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:10:40,551 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:42,462 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:42] "GET /profile HTTP/1.1" 200 -
+2025-07-16 20:10:42,510 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:48,234 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:48] "[32mPOST /profile HTTP/1.1[0m" 302 -
+2025-07-16 20:10:48,241 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:48] "GET /profile HTTP/1.1" 200 -
+2025-07-16 20:10:48,269 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:55,703 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-16 20:10:55,719 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:55] "GET / HTTP/1.1" 200 -
+2025-07-16 20:10:55,778 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:10:58,569 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:58] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-16 20:10:58,588 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:58] "GET /login?role=patient HTTP/1.1" 200 -
+2025-07-16 20:10:58,641 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:10:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:11:04,999 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:04] "POST /login?role=patient HTTP/1.1" 200 -
+2025-07-16 20:11:05,035 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:11:12,267 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:12] "POST /login?role=patient HTTP/1.1" 200 -
+2025-07-16 20:11:12,300 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:11:17,351 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:17] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:11:17,388 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:11:34,920 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:34] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:11:34,936 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:34] "GET /register HTTP/1.1" 200 -
+2025-07-16 20:11:34,974 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:11:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:12:05,746 - __main__ - INFO - [Email Skipped] Subject: Welcome to HealthCare App to prakash@gmail.com
+2025-07-16 20:12:05,747 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:05] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-07-16 20:12:05,754 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:05] "GET /login HTTP/1.1" 200 -
+2025-07-16 20:12:05,803 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:12:19,503 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-16 20:12:19,512 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:19] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:12:19,562 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:12:23,786 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:23] "GET /book_appointment HTTP/1.1" 200 -
+2025-07-16 20:12:23,827 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:12:52,832 - __main__ - INFO - [Email Skipped] Subject: New Appointment Notification to narayana@gmail.com
+2025-07-16 20:12:52,832 - __main__ - INFO - [SNS Skipped] Message: New appointment booked with Dr. Narayana on 2025-07-16.
+Patient: prakash
+Symptoms: weakness
+2025-07-16 20:12:52,835 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:52] "[32mPOST /book_appointment HTTP/1.1[0m" 302 -
+2025-07-16 20:12:52,847 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:52] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:12:52,909 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:12:58,341 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:58] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-16 20:12:58,354 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:58] "GET / HTTP/1.1" 200 -
+2025-07-16 20:12:58,402 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:12:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:13:00,546 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:13:00] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-16 20:13:00,552 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:13:00] "GET /login?role=doctor HTTP/1.1" 200 -
+2025-07-16 20:13:00,603 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:13:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:13:06,576 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:13:06] "[32mPOST /login?role=doctor HTTP/1.1[0m" 302 -
+2025-07-16 20:13:06,583 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:13:06] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:13:06,621 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:13:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-07-16 20:15:13,621 - __main__ - ERROR - Error retrieving appointment: An error occurred (UnrecognizedClientException) when calling the GetItem operation: The security token included in the request is invalid.
+2025-07-16 20:15:13,622 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:15:13] "[32mGET /view_appointment/2 HTTP/1.1[0m" 302 -
+2025-07-16 20:15:13,629 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:15:13] "GET /dashboard HTTP/1.1" 200 -
+2025-07-16 20:15:13,664 - werkzeug - INFO - 192.168.29.224 - - [16/Jul/2025 20:15:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
