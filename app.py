@@ -86,7 +86,7 @@ if 'raju@gmail.com' not in db.users:
 
 
 # SNS Configuration
-SNS_TOPIC_ARN = os.environ.get('SNS_TOPIC_ARN',"")
+SNS_TOPIC_ARN = os.environ.get("arn:aws:sns:us-east-1:881490100674:Medtrack")
 ENABLE_SNS = os.environ.get('ENABLE_SNS', 'False').lower() == 'true'
 
 # AWS Resources
